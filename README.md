@@ -1,8 +1,8 @@
-# docker-stockfish
+# docker-asmfish
 
 ## asmFish in a docker container
 
-Used bitnami/minideb linux to create a small stockfish container.
+Used bitnami/minideb linux to create a small asmfish container.
 
 ## Reference
 
